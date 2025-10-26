@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|   timestamp   |                                                                                     message                                                                                     |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1761378233546 | INIT_START Runtime Version: python:3.13.v64 Runtime Version ARN: arn:aws:lambda:eu-west-2::runtime:fe7a78198cc1037d599c8e576c9b94c4d6b88f8067b86f7d3481b75d9fd76c24             |
+| 1761378234063 | START RequestId: e0542f81-0743-4583-8062-ad0f00fc8c40 Version: $LATEST                                                                                                          |
+| 1761378234652 | ✅ Successfully tagged instances ['i-0ffdd363cbae94ab8', 'i-07b57cb2f1c77b33f'] with tags: [{'Key': 'LaunchDate', 'Value': '2025-10-25'}, {'Key': 'Owner', 'Value': 'DevTeam'}]  |
+| 1761378234671 | END RequestId: e0542f81-0743-4583-8062-ad0f00fc8c40                                                                                                                             |
+| 1761378234671 | REPORT RequestId: e0542f81-0743-4583-8062-ad0f00fc8c40 Duration: 608.14 ms Billed Duration: 1122 ms Memory Size: 128 MB Max Memory Used: 96 MB Init Duration: 513.58 ms         |
+| 1761378253843 | START RequestId: 3c40ae4f-9597-4d1d-ad04-27fe5d32b90b Version: $LATEST                                                                                                          |
+| 1761378254264 | ✅ Successfully tagged instances ['i-0ffdd363cbae94ab8', 'i-07b57cb2f1c77b33f'] with tags: [{'Key': 'LaunchDate', 'Value': '2025-10-25'}, {'Key': 'Owner', 'Value': 'DevTeam'}]  |
+| 1761378254265 | END RequestId: 3c40ae4f-9597-4d1d-ad04-27fe5d32b90b                                                                                                                             |
+| 1761378254265 | REPORT RequestId: 3c40ae4f-9597-4d1d-ad04-27fe5d32b90b Duration: 422.21 ms Billed Duration: 423 ms Memory Size: 128 MB Max Memory Used: 96 MB                                   |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
