@@ -4,7 +4,7 @@
 ====================================================================================
 Folder1:Automated Instance Management Using AWS Lambda and Boto3.
 ====================================================================================
-Content
+Content<br>
 1.boto3_ec2_management_script.py
 2.Cloudwatch Logs for EC2 automanage.txt
 3.Assignment Automated Instance Management Using AWS Lambda and Boto3.docx
